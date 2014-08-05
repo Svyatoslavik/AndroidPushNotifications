@@ -1,0 +1,1 @@
+Example using google play services for receive push notifications
